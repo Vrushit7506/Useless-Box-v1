@@ -2,7 +2,6 @@
 Useless Box helps you to get into the world of Arduino.
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bloglovin.svg" />][blog]
 
 <br/>
 <br/>
@@ -21,7 +20,4 @@ Since the name itself says everything, just a fun project using Arduino. Useless
 * 220 Ohm Resistor
 * Screws
 
-
-[website]: http://medbay.infinityfreeapp.com/
 [youtube]: https://youtu.be/fArVh8EXKhM
-[blog]: https://vrushitpatel.github.io/project/Useless-Box-v1

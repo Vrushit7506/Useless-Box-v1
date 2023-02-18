@@ -4,6 +4,9 @@ Useless Box was created just to get into the world of Arduino.
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bloglovin.svg" />][blog]
 
+<br/>
+<br/>
+
 ## About Useless-Box-v1
 Since the name itself says everything, just a fun project using Arduino. Useless-Box-v2 will be out soon, adding more features and functionalities to it.
 
@@ -13,8 +16,8 @@ Since the name itself says everything, just a fun project using Arduino. Useless
 #### Domain
 Arduino.<br/>
 
-#### Design
-<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+#### Circuit Design
+![Useless-Box-v1 Circuit Diagram](https://github.com/vrushitpatel/Useless-Box-v1/blob/master/Media/Circuit.png?raw=true)
 
 #### Parts Used
 * Arduino Uno/Arduino Micro.
